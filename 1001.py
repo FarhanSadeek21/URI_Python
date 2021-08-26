@@ -1,4 +1,4 @@
 a = int(input())
 b = int(input())
-total = a + b
-print('X = ' + str(total))
+sum = a + b
+print(f'X = {sum}')
